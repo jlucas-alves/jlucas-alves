@@ -1,6 +1,6 @@
 # Hi, I'm Lucas Alves! 👋
 
-I'm a **front-end specialist** with a focus on **design systems**, with **6 years of experience** at **Farfetch**. I have extensive experience in developing **modern, scalable user interfaces**. I'm passionate about web technologies and always looking to optimize and follow best practices.
+I'm a **front-end specialist** with a focus on **design systems**, with **7 years of experience**. I have extensive experience in developing **modern, scalable user interfaces**. I'm passionate about web technologies and always looking to optimize and follow best practices.
 
 ---
 
@@ -8,23 +8,6 @@ I'm a **front-end specialist** with a focus on **design systems**, with **6 year
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasAlves&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
----
-
-## 🚀 Featured Projects
-
-### [Project Name 1](https://github.com/LucasAlves/project1)
-![Screenshot](https://www.example.com/project1.png)
-Brief description of Project 1. Design system exploration and reusable component implementation.
-
-### [Project Name 2](https://github.com/LucasAlves/project2)
-![Screenshot](https://www.example.com/project2.png)
-Brief description of Project 2. Focus on performance and user experience.
-
-### [Project Name 3](https://github.com/LucasAlves/project3)
-![Screenshot](https://www.example.com/project3.png)
-Brief description of Project 3. API integration and front-end process automation.
-
----
 
 ## 🛠️ Technologies & Tools
 
@@ -37,16 +20,6 @@ Brief description of Project 3. API integration and front-end process automation
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
----
-
-## 💼 Experience
-
-### **Farfetch** (2016 - 2022)
-- Front-End Specialist, focusing on **design systems** and **user experience**.
-- Worked on developing and maintaining scalable, optimized interfaces.
-- Collaborated with design and back-end teams to create innovative and efficient solutions.
-
----
 
 ## 📈 Contributions
 
@@ -56,6 +29,6 @@ Brief description of Project 3. API integration and front-end process automation
 
 ## 📧 How to reach me
 
-- **Email**: lucas.alves@example.com
-- **LinkedIn**: [linkedin.com/in/lucasalves](https://www.linkedin.com/in/lucasalves)
-- **Website/Portfolio**: [lucasalves.dev](https://www.lucasalves.dev)
+- **Email**: lucasalves.devel@gmail.com
+- **LinkedIn**: [linkedin.com/in/lucasalves]([https://www.linkedin.com/in/lucasalves](https://www.linkedin.com/in/thelucasalves/))
+
