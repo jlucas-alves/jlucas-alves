@@ -24,5 +24,5 @@ I'm a **front-end specialist** with a focus on **design systems**, with **7 year
 ## 📧 How to reach me
 
 - **Email**: lucasalves.devel@gmail.com
-- **LinkedIn**: [linkedin.com/in/lucasalves]([https://www.linkedin.com/in/lucasalves](https://www.linkedin.com/in/thelucasalves/))
+- **LinkedIn**: [linkedin.com/in/lucasalves](https://www.linkedin.com/in/thelucasalves)
 
