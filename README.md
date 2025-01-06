@@ -21,12 +21,6 @@ I'm a **front-end specialist** with a focus on **design systems**, with **7 year
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 
-## 📈 Contributions
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LucasAlves&theme=github)
-
----
-
 ## 📧 How to reach me
 
 - **Email**: lucasalves.devel@gmail.com
